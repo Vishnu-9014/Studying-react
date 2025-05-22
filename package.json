@@ -1,0 +1,39 @@
+{
+  "name": "namastepractice",
+  "version": "1.0.0",
+  "description": "This is namaste practice",
+  "scripts": {
+    "start": "parcel app.html",
+    "build": "parcel build app.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishnu-9014/Studying-react.git"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "react",
+    "vishnu",
+    "react"
+  ],
+  "author": "Vishnu Vardhan Reddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vishnu-9014/Studying-react/issues"
+  },
+  "homepage": "https://github.com/Vishnu-9014/Studying-react#readme",
+  "devDependencies": {
+    "parcel": "^2.15.0"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^6.30.1"
+  },
+  "broweserslist": [
+    "last 10 Chrome version",
+    "last 2 Firefox version"
+  ]
+}
